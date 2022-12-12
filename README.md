@@ -7,3 +7,4 @@ This is our first basic ADS platform. This demo shows some basic functions.
     '''
     cd test
     '''
+3.
