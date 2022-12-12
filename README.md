@@ -14,5 +14,5 @@ This is our first basic ADS platform. This demo shows some basic functions.
 4. UI Quick Demo
 
 <p align="center">
-  <img src="blob/main/UI/Selection_050.png" width="99%">
+  <img src="./UI/Selection_050.png" width="99%">
 </p>
