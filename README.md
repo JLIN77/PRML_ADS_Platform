@@ -12,4 +12,4 @@ This is our first basic ADS platform. This demo shows some basic functions.
     ./dist/test/test
     
 4. UI Quick Demo
-![]
+![https://github.com/JLIN77/PRML_ADS_Platform/blob/main/UI/Selection_050.png]
