@@ -5,7 +5,8 @@ This is our first basic ADS platform. This demo shows some basic functions.
 1. Our platform is based on python environment on Ubuntu system. Considering the complex installation procedures, we package the project into an executable file, which is friendly to users. Please download the whole project from GoogleDrive at https://drive.google.com/file/d/109Xa72XHOr9Pf4JhfrTbpmRtkPmIhHrB/view?usp=share_link
 2. cd to the project
     ```
-    cd test
+    unzip cd PRML_ADS_Platform_v1.0.zip
+    cd PRML_ADS_Platform_v1.0
     ```
 3.  run test
     ```
