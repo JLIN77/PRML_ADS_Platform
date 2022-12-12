@@ -10,3 +10,6 @@ This is our first basic ADS platform. This demo shows some basic functions.
 3.  run test
     ```
     ./dist/test/test
+    
+4. UI Quick Demo
+![]
