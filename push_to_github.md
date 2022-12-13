@@ -10,7 +10,7 @@ git add .
 -- . means the whole project or ./test.txt means the specific file
 
 #  Step 3
-git config --global user.email "you@example.com"
+git config --global user.email "you@example.com" \
 git config --global user.name "Your Name"
 
 # step 4:
