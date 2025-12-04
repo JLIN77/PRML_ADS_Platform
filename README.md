@@ -18,4 +18,4 @@ This is our first basic ADS platform. This demo shows some basic functions.
   <img src="./UI/Selection_050.png" width="99%">
 </p>
 
-Update: a demo video uploaded.
+## Update: a demo video uploaded.
