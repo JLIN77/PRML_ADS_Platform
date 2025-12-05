@@ -19,4 +19,7 @@ This is our first basic ADS platform. This demo shows some basic functions.
 </p>
 
 ## Update: a demo video uploaded.
-Bilibili 演示视频: [点击观看](bilibili.com/video/BV1Xn2VBuEWU/)
+
+-Bilibili 演示视频（户外）: [点击观看](https://www.bilibili.com/video/BV1eL2VBkEs3/?spm_id_from=333.1387.homepage.video_card.click&vd_source=dcc12a6fc4b4581b6a4578b624a7e6e6)
+
+-Bilibili 演示视频（室内）: [点击观看](bilibili.com/video/BV19L2VBkErg/?spm_id_from=333.1387.homepage.video_card.click)
